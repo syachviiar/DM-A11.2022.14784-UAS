@@ -29,7 +29,7 @@ Bagaimana menentukan algoritma terbaik untuk mengotentikasi uang kertas secara a
 ## 3. Penjelasan Dataset, EDA, dan Proses Features Dataset
 
 **Dataset**:
-Dataset yang digunakan berisi fitur-fitur numerik yang menggambarkan karakteristik fisik uang kertas, seperti varian, skewness, curtosis, dan entropi gambar uang kertas.
+Sumber Data: [Kaggle] https://www.kaggle.com/datasets/shantanuss/banknote-authentication-uci
 
 **Exploratory Data Analysis (EDA)**:
 - Analisis deskriptif untuk memahami distribusi data dan outlier.
@@ -78,4 +78,7 @@ Dataset yang digunakan berisi fitur-fitur numerik yang menggambarkan karakterist
 1. Algoritma terbaik dan terburuk untuk autentikasi uang kertas.
 2. Proyek ini menunjukkan pentingnya evaluasi mendalam untuk memilih algoritma yang sesuai.
 
+---
 
+## 7. Deployment
+Link Deployment : https://bank-note-app-app-ebeirmd3o3rjrddquc9rh2.streamlit.app/ 
