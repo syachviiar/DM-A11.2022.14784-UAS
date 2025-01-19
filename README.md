@@ -1,4 +1,4 @@
-# README: Rigkasan dan Gambaran dari Proyek UAS
+#Ringkasan dan Gambaran dari Proyek UAS ini
 
 ## 1. Judul / Topik Project dan Identitas Lengkap
 
